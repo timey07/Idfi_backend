@@ -2,4 +2,4 @@ fastapi
 uvicorn
 httpx
 python-multipart
-dotenv
+python-dotenv
